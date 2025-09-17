@@ -4,11 +4,11 @@
 </p>
 
 ---
-
-<!-- Avatar do perfil -->
 <p align="center">
-  <img src="https://i.imgur.com/2WZtODq.png" width="200" style="border-radius:50%" alt="Bia Avatar"/>
+  <img src="https://avatars.githubusercontent.com/biaZ-coder" width="200" style="border-radius:50%" alt="Bia Avatar"/>
 </p>
+
+
 
 <p align="center">
 🌱 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -33,8 +33,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biazz-codificador&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biazz-codificador&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=biazZ-coder&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaZ-coder&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🏆 Troféus
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=biazz-codificador&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=biaZ-coder&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -59,9 +59,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding gif"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Rocket gif"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving hand"/>
-</p>
 
 ---
 
