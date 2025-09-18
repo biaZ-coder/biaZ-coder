@@ -1,6 +1,6 @@
 <!-- Título com efeito digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&random=false&width=500&lines=👋+Olá%2C+eu+sou+a+Bia!;💻+programadora+em+formaçao;🚀+Apaixonada+por+tecnologia+e+código+limpo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&random=false&width=500&lines=👋+Olá%2C+eu+sou+a+Bia!;💻+programadora+em+formaçao;🚀+bem+vindo+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,7 +55,6 @@
 
 ---
 
-## 🎉 Figurinhas/GIFs legais
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding gif"/>
